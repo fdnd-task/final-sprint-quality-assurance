@@ -53,8 +53,8 @@ Independently design and develop complex, user-friendly, interactive web applica
    - Follow the git flow workflow with conventional commits, branching, and pull requests.
    - Work iteratively through the development lifecycle: analyze, design, build, integrate, test.
 
-2. **Update the FDND Living Document**:
-   - Regularly update and contribute insights to the FDND living document.
+2. **Update the FDND Agency living code conventions document**:
+   - Regularly update and contribute insights to the FDND Agency code conventions.
    - Share your progress, plans, and knowledge to enrich the communal learning experience.
 
 ### UI/UX Enhancement
