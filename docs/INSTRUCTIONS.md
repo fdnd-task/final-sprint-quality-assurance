@@ -1,23 +1,19 @@
-# FDND Agency Weekly Sprint Assignment
+# FDND Agency Final Sprint
 
-**Duration: 40 hours**
-
-Welcome to the final sprint of your academic journey at the FDND Agency! As you have embarked on a path towards becoming esteemed professionals in frontend design and development, this week's assignment is designed to challenge your skills and push you to deliver web applications of outstanding quality.
 
 ## Objective
 Independently design and develop complex, user-friendly, interactive web applications. Embrace the principles of the web, utilize APIs and databases, deploy tools and frameworks effectively, and adhere to established development methodologies.
 
 ## Projects
-- **Mandatory Project**: [Brief description of the mandatory project]
-- **Individual Project**: [Brief description of the individual project]
+
 
 ## Your Tasks
 
 ### Project Selection & Planning
 
 1. **Project Engagement**:
-   - Work collaboratively on the mandatory project assigned to your team.
-   - Each student will also select an individual project. You may choose to work alone or form sub-teams based on shared interests.
+   - Work collaboratively on the project assigned to your team.
+   - Each student will also select an individual project. You may choose to work alone or form teams based on shared interests.
 
 2. **Strategic Planning**:
    - Develop a planning strategy for balancing both the mandatory project and the individual project.
@@ -66,4 +62,4 @@ Independently design and develop complex, user-friendly, interactive web applica
 
 ### Ambition and Excellence
 - Aim to produce web applications that exemplify high standards and professionalism.
-- Let your work showcase the best practices in frontend development, setting an example for the entire community.
+- Let your work showcase the best practices in frontend development, setting an example for the frontend community.
