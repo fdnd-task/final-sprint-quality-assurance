@@ -1,5 +1,5 @@
 > _Fork_ deze leertaak en ga aan de slag.
-> [INSTRUCTIONS](https://github.com/fdnd-task/url-naar-online-instructions)
+> [INSTRUCTIONS](https://github.com/fdnd-task/final-sprint-quality-assurance/blob/main/docs/INSTRUCTIONS.md)
 
 
 # Quality Assurance
