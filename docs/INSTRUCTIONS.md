@@ -6,6 +6,7 @@ Independently design and develop complex, user-friendly, interactive web applica
 
 ## Projects
 
+To be announced
 
 ## Your Tasks
 
@@ -15,8 +16,8 @@ Independently design and develop complex, user-friendly, interactive web applica
    - Work collaboratively on the project assigned to your team.
    - Each student will also select an individual project. You may choose to work alone or form teams based on shared interests.
 
-2. **Strategic Planning**:
-   - Develop a planning strategy for balancing both the mandatory project and the individual project.
+2. **Planning**:
+   - Plan your work balancing both the mandatory project and the individual project.
    - Create a comprehensive project plan using a GitHub project board.
      - **MoSCoW Labels**: Prioritize tasks using Must have, Should have, Could have, and Won't have labels.
      - **Time/Weight Estimation Label**: Estimate the time required and the weight of each task.
